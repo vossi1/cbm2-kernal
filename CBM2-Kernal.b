@@ -8,7 +8,6 @@
 ; * switches
 STANDARD_FKEYS	= 1	; Standard F-keys
 FULL_RAMTEST	= 1	; Standard full and slow RAM-test
-;PATCH04B	= 1	; include revision 04B patches
 ;SOLID_CURSOR	= 1	; solid "Atari style cursor"
 ; * constants
 FILL		= $AA	; Fills free memory areas with $AA
